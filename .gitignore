@@ -17,5 +17,4 @@ node_modules/
 .ipynb_checkpoints/
 
 # Data files (optional)
-*.csv
 *.xlsx
